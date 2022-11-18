@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineering student from Ethiopia</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning software engineering in AASTU<br><br>- 💬 Ask me about C++, python and javascript<br><br>- 📫 How to reach me senbihon@gmail.com
+🌱 I’m currently learning software engineering in AASTU<br><br>- 💬 Ask me about C++, Java and javascript<br><br>- 📫 How to reach me senbihon@gmail.com
 
 
 ## 🌐 Socials:
